@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/flag_garage.png
-      altText: Unblock your team boost your time to production preview
+      altText: 'Twitch - '
       elementId: ''
       type: ImageBlock
     badge:
