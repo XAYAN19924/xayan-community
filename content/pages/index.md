@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Twitch
+      text: Twitch - xayan19
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
